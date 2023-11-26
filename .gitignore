@@ -1,0 +1,7 @@
+.venv/
+dist/
+build/
+main.spec
+reset_highscore.spec
+data.pickle
+**/__pycache__/
