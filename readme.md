@@ -1,7 +1,5 @@
 # Space Invaders Clone in Python
 
----
-
 ### How to Run
 
 Recommended: Create Venv  
